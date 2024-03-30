@@ -9,11 +9,6 @@ This is a list of 3d-printable DIY products that offer hardware kits and STL fil
 
 [Ploopy](https://ploopy.co/shop/) - Headphones & trackball mice
 
-# Heatset Insert Press
-[Vector 3D VLMP](https://vector3d.shop/products/vlmp-hardware-kit) (also available from [West3d](https://west3d.com/products/vlmp-heat-set-insert-press-by-vector3d))
-
-[Iconic Fab Stealth Press](https://www.printables.com/model/609644-stealth-press-heat-set-insert-press)
-
 # Bambu Labs Hardware Kits
 1. [LED Lamp Kit](https://us.store.bambulab.com/products/led-lamp-kit-001)
 2. [Wireless Mouse Components Kit](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002)
@@ -34,3 +29,8 @@ This is a list of 3d-printable DIY products that offer hardware kits and STL fil
 [Frontline Foam](https://www.frontlinefoam.com/product-category/hardware/)
 
 [Shellington Labs](https://shellingtonlabs.com/product-category/diy-hardware-kits/)
+
+# Heatset Insert Press
+[Vector 3D VLMP](https://vector3d.shop/products/vlmp-hardware-kit) (also available from [West3d](https://west3d.com/products/vlmp-heat-set-insert-press-by-vector3d))
+
+[Iconic Fab Stealth Press](https://www.printables.com/model/609644-stealth-press-heat-set-insert-press)
